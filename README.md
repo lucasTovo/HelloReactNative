@@ -6,5 +6,5 @@
 * First prepare your development environment: [Rocketseat](https://docs.rocketseat.dev/ambiente-react-native/introducao)  
 #
 ## When you are ready
-* with cell phone connected or with open emulator run:<br>
+* With cell phone connected or with open emulator run:<br>
 ```cd ~/HelloReactNative``` and ```react-native run-android``` for build this application
