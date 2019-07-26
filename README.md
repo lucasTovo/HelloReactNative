@@ -1,7 +1,5 @@
 # Go4all!
-
-[App Installer](https://drive.google.com/open?id=1_AMARGjWiHW77gx1sAhxUUwLoZELVlmo)
-
+  [App Installer ready to use](https://drive.google.com/open?id=1_AMARGjWiHW77gx1sAhxUUwLoZELVlmo)
 ## Introduction
 * First prepare your development environment: [Rocketseat](https://docs.rocketseat.dev/ambiente-react-native/introducao)  
 #
